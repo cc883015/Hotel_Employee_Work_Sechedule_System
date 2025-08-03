@@ -5,7 +5,9 @@ This system is a staff scheduling and payroll management tool designed for hotel
 The system also supports exporting daily reports and payroll summaries as CSV files, making it convenient for management and record-keeping. With a visually appealing interface, date filtering, and name-based sorting, the system is ideal for daily scheduling, attendance tracking, and performance evaluation.
 <img width="1312" height="813" alt="image" src="https://github.com/user-attachments/assets/e3ed693c-1fa5-4968-ac11-c2e97329c16e" />
 
-![Uploading image.png…]()
+<img width="373" height="650" alt="image" src="https://github.com/user-attachments/assets/a465cfb9-6f36-4540-afbb-b53c9b422a94" />
+<img width="134" height="150" alt="image" src="https://github.com/user-attachments/assets/1f7966c0-b533-4bb8-8dea-ac1c3b295004" />
+
 
 * 项目简介
 * 技术栈
