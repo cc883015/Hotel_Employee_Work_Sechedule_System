@@ -3,8 +3,9 @@ As a part-time hotel manager, I developed this system to streamline employee sch
 This system is a staff scheduling and payroll management tool designed for hotels or small to medium-sized businesses. It features a graphical user interface (GUI) built with tkinter and tkcalendar, allowing for interactive operation. Administrators can select dates via a calendar, assign work shifts (e.g., cleaner or receptionist), choose full-day or half-day shifts, and automatically calculate daily and weekly wages for each employee.
 
 The system also supports exporting daily reports and payroll summaries as CSV files, making it convenient for management and record-keeping. With a visually appealing interface, date filtering, and name-based sorting, the system is ideal for daily scheduling, attendance tracking, and performance evaluation.
+<img width="1312" height="813" alt="image" src="https://github.com/user-attachments/assets/e3ed693c-1fa5-4968-ac11-c2e97329c16e" />
 
-当然，下面是你项目的 README.md 内容的中英文双语版本，包括：
+![Uploading image.png…]()
 
 * 项目简介
 * 技术栈
